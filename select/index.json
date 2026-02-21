@@ -1,0 +1,88 @@
+{
+  "version": 1,
+  "base_track": "Secret Story of the Swan",
+  "base_artist": "IZ*ONE",
+  "createdAt": "2026-02-21T17:07:16.175675Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "secret story of the swan",
+      "artist": "izone",
+      "has_synced": true,
+      "path": "select/01_secret_story_of_the_swan_izone.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Secret Story of the Swan",
+      "artist": "IZ*ONE",
+      "has_synced": true,
+      "path": "select/02_Secret_Story_of_the_Swan_IZ_ONE.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Secret Story of the Swan",
+      "artist": "IZ*ONE",
+      "has_synced": true,
+      "path": "select/03_Secret_Story_of_the_Swan_IZ_ONE.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Secret Story of the Swan - Japanese Version",
+      "artist": "IZ*ONE",
+      "has_synced": true,
+      "path": "select/04_Secret_Story_of_the_Swan_-_Japanese_Version_IZ_ONE.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "(Secret Story of the Swan) (Japanese Ver.)",
+      "artist": "IZ*ONE",
+      "has_synced": true,
+      "path": "select/05_(Secret_Story_of_the_Swan)_(Japanese_Ver.)_IZ_ONE.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Secret Story of the Swan (Japanese Ver.)",
+      "artist": "IZ*ONE",
+      "has_synced": true,
+      "path": "select/06_Secret_Story_of_the_Swan_(Japanese_Ver.)_IZ_ONE.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Secret Story of the Swan (환상동화)",
+      "artist": "아이즈원 (IZ*ONE)",
+      "has_synced": true,
+      "path": "select/07_Secret_Story_of_the_Swan_(환상동화)_아이즈원_(IZ_ONE).lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "幻想童話 (Secret Story of the Swan) (Japanese Ver.)",
+      "artist": "IZ*ONE",
+      "has_synced": true,
+      "path": "select/08_幻想童話_(Secret_Story_of_the_Swan)_(Japanese_Ver.)_IZ_ONE.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Secret Story of the Swan - Japanese Version",
+      "artist": "IZ*ONE",
+      "has_synced": false,
+      "path": "select/09_Secret_Story_of_the_Swan_-_Japanese_Version_IZ_ONE.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Secret Story of the Swan",
+      "artist": "IZ*ONE",
+      "has_synced": false,
+      "path": "select/pl_01_Secret_Story_of_the_Swan_IZ_ONE.txt"
+    }
+  ]
+}
