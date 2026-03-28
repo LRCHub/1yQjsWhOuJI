@@ -2,7 +2,7 @@
   "version": 1,
   "base_track": "Secret Story of the Swan",
   "base_artist": "IZ*ONE",
-  "createdAt": "2026-02-21T17:07:16.175675Z",
+  "createdAt": "2026-03-28T12:49:20.418013Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -83,6 +83,15 @@
       "artist": "IZ*ONE",
       "has_synced": false,
       "path": "select/pl_01_Secret_Story_of_the_Swan_IZ_ONE.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "Secret Story of the Swan",
+      "artist": "IZ*ONE",
+      "has_synced": true,
+      "path": "select/localdb_01_Secret_Story_of_the_Swan_IZ_ONE.lrc",
+      "repo_name": "1yQjsWhOuJI"
     }
   ]
 }
